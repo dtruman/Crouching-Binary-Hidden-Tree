@@ -1,7 +1,7 @@
 import edu.neumont.io.Bits;
 
 
-public class HuffmanCompression
+public class HuffmanCompressor
 {
 	public byte[] compress(HuffmanTree tree, byte[] b)
 	{
